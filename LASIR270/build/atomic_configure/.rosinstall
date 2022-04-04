@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /opt/ros/melodic/share/ros_ws/LASIR270/build/devel/setup.sh
